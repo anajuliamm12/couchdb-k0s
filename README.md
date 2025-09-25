@@ -1,0 +1,1 @@
+# couchdb-k0s
